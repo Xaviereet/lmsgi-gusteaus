@@ -1,0 +1,32 @@
+[33mcommit 9b955f494c6b465a4b36b78e433048ed167f2bb7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: Xaviereet <javloplah@alu.edu.gva.es>
+Date:   Tue Jan 16 20:08:23 2024 +0000
+
+    Cambiada el color del p
+
+[33mcommit 282c1184cf82dd49f2f91f71a9f9cd58f7fe0807[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/2-ejercicio-2-diseño-detallado-de-encabezado-y-pie-de-página-para-restaurante-gusteaus[m[33m, [m[1;31morigin/1-ejercicio-1-estilos-basicos-con-tematica-de-restaurante-elegante[m[33m)[m
+Merge: af5fe01 669aa93
+Author: Arturo <a.candelamolto@edu.gva.es>
+Date:   Tue Jan 16 19:42:29 2024 +0100
+
+    Merge pull request #14 from amiguetes/13-crear-los-ficheros-markdon-de-las-tareas
+    
+    Incorporados los ficheros dde markdown closes #13
+
+[33mcommit 669aa93f517e48fcae9f835f841bd72d1bf471ec[m
+Author: Arturo <a.candelamolto@edu.gva.es>
+Date:   Tue Jan 16 18:40:57 2024 +0000
+
+    Incorporados los ficheros dde markdown closes #13
+
+[33mcommit af5fe0119fb098429d5f03f798ee1044d9838f64[m
+Author: Arturo Candela <a.candelamolto@edu.gva.es>
+Date:   Tue Jan 16 12:19:36 2024 +0100
+
+    Agregado readme y la licencia
+
+[33mcommit 959372c07e7dabf037cb60bb063e75951f266068[m
+Author: Arturo Candela <a.candelamolto@edu.gva.es>
+Date:   Tue Jan 16 12:06:13 2024 +0100
+
+    Initial Commit
